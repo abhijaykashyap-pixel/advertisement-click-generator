@@ -77,4 +77,3 @@ Best Fitted Models ranking -
 Hooray!! The models are deployed successfully!
 ****************************************************
 Code Contributed by, Abhijay Kashyap 2025 
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
