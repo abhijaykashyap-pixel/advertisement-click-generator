@@ -36,7 +36,7 @@ The goal of this project is to make a prediction model using the advertisement c
 ************************************
 ## Data Visualization using Pairplot
 
-![](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-33/Advertisement%20Click%20Prediction/Images/ad2.png)
+![](https://github.com/abhijaykashyap-pixel/advertisement-click-generator/blob/main/Images/ad2.png)
 
 **********************************************
 ## Model Comparison
@@ -76,5 +76,5 @@ Best Fitted Models ranking -
 
 Hooray!! The models are deployed successfully!
 ****************************************************
-Code Contributed by, Abhishek Sharma, 2021 @abhisheks008 #LGMSOC21
+Code Contributed by, Abhijay Kashyap 2025 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
