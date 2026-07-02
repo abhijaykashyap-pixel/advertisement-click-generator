@@ -1,16 +1,15 @@
 # Advertisement Click Prediction
 Machine Learning has now variety of applications in real world whether it is for predictive analysis or automating things or decision making for business purpose. Having knowledge of Machine Learning is different thing but applying it to business purpose for making profit, and learning something new from the data is the main motive. So keeping these points in mind recently I have done a project which was a Machine Learning competition. Project was about predicting the ad click rate of a customer, based on certain features. I found this problem very interesting and therefore made a Machine Learning model to predict the Ad click.
 
-![](https://github.com/abhijaykashyap-pixel/ML-ProjectKart/blob/patch-33/Advertisement%20Click%20Prediction/Images/ad1.png)
 
 ## Dataset
-The dataset which is used in this project, is collected from Kaggle. Here is the link of the dataset : https://www.kaggle.com/jahnveenarang/cvdcvd-vd. I have uploaded the same in [`Dataset`](https://github.com/abhisheks008/ML-ProjectKart/tree/patch-33/Advertisement%20Click%20Prediction/Dataset) folder too, you can access that!
+The dataset which is used in this project, is collected from Kaggle. Here is the link of the dataset : https://www.kaggle.com/jahnveenarang/cvdcvd-vd.
 
 ## Goal
 The goal of this project is to make a prediction model using the advertisement classification algortihms, which will predict the desired ad as per the user information.
 
 ## What have I done?
-1. Importing all the required libraries. Check [`requirements.txt`](https://github.com/abhisheks008/ML-ProjectKart/blob/patch-33/Advertisement%20Click%20Prediction/requirements.txt).
+1. Importing all the required libraries. Check [`requirements.txt`](https://github.com/abhijaykashyap-pixel/advertisement-click-generator/blob/main/requirements.txt).
 2. Upload the dataset and the Jupyter Notebook file.
 3. Data Preprocessing
 4. Prediction Models
